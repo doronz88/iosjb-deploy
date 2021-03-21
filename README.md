@@ -1,7 +1,6 @@
 # iosjb-deploy
 
-Simple utility for quick deployment of all binary tools you should have on 
-you jailbroken iOS device.
+Simple utility for quick deployment of all binary tools you should have on you jailbroken iOS device.
 
 # Quick usage
 
